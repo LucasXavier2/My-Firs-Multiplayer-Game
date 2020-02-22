@@ -9,7 +9,7 @@ The backend was developed using **Nodejs**, **express** and **Socket.io**.
 **Socket.io** was used for the realtime gameplay, where multiple players can connect to the same game and the changes made by one client is reflected to all of the other clients
 
 **How to run the game:**
-- You must have Nodejs installed
+- You must have Nodejs installed (Version 13.2.0 or higher)
 - Download the files
 - Run **npm install** command in your terminal to install everything that is needed for the project
 - Run **npm start** to start the server
